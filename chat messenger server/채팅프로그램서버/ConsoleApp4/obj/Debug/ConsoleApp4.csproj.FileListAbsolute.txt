@@ -1,0 +1,11 @@
+D:\Microsoft Visual Studio\Project\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\Project\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Project\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\Microsoft Visual Studio\Project\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\Microsoft Visual Studio\Project\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\Microsoft Visual Studio\Project\ConsoleApp4\ConsoleApp4\bin\Debug\MySql.Data.dll
+D:\Microsoft Visual Studio\Project\ConsoleApp4\ConsoleApp4\bin\Debug\Google.Protobuf.dll
+D:\Microsoft Visual Studio\Project\ConsoleApp4\ConsoleApp4\bin\Debug\MySql.Data.xml
+D:\Microsoft Visual Studio\Project\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CopyComplete
+D:\Microsoft Visual Studio\Project\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\Microsoft Visual Studio\Project\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
